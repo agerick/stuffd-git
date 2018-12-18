@@ -1,0 +1,623 @@
+{
+  "recipes": [
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 34,
+      "gaps": "no",
+      "lowFodmap": false,
+      "ketogenic": false,
+      "whole30": false,
+      "preparationMinutes": 20,
+      "cookingMinutes": 20,
+      "sourceUrl": "http://allrecipes.com/Recipe/Chicken-Chimichangas-with-Green-Sauce/",
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-chimichangas-with-green-sauce-464292",
+      "aggregateLikes": 321,
+      "spoonacularScore": 75.0,
+      "healthScore": 14.0,
+      "creditText": "Allrecipes",
+      "sourceName": "Allrecipes",
+      "pricePerServing": 253.35,
+      "extendedIngredients": [
+        {
+          "id": 1015006,
+          "aisle": "Meat",
+          "image": "chicken-breasts.png",
+          "consitency": "solid",
+          "name": "chicken meat",
+          "original": "1 pound shredded cooked chicken meat",
+          "originalString": "1 pound shredded cooked chicken meat",
+          "originalName": null,
+          "amount": 1.0,
+          "unit": "pound",
+          "meta": [
+            "shredded",
+            "cooked"
+          ],
+          "metaInformation": [
+            "shredded",
+            "cooked"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "lb",
+              "unitLong": "pound"
+            },
+            "metric": {
+              "amount": 453.592,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 6016,
+          "aisle": "Canned and Jarred",
+          "image": "cream-of-chicken-soup.jpg",
+          "consitency": "liquid",
+          "name": "condensed cream of chicken soup",
+          "original": "2 (10.5 ounce) cans condensed cream of chicken soup",
+          "originalString": "2 (10.5 ounce) cans condensed cream of chicken soup",
+          "originalName": null,
+          "amount": 21.0,
+          "unit": "ounce",
+          "meta": [
+            "canned"
+          ],
+          "metaInformation": [
+            "canned"
+          ],
+          "measures": {
+            "us": {
+              "amount": 21.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 595.34,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 1017,
+          "aisle": "Cheese",
+          "image": "cream-cheese.jpg",
+          "consitency": "solid",
+          "name": "cream cheese",
+          "original": "1 (8 ounce) package cream cheese",
+          "originalString": "1 (8 ounce) package cream cheese",
+          "originalName": null,
+          "amount": 8.0,
+          "unit": "ounce",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 8.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 226.796,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 10218364,
+          "aisle": "Bakery/Bread;Pasta and Rice;Ethnic Foods",
+          "image": "flour-tortilla.jpg",
+          "consitency": "solid",
+          "name": "flour tortillas",
+          "original": "8 (10 inch) flour tortillas",
+          "originalString": "8 (10 inch) flour tortillas",
+          "originalName": null,
+          "amount": 8.0,
+          "unit": "10-inch",
+          "meta": [
+            "()"
+          ],
+          "metaInformation": [
+            "()"
+          ],
+          "measures": {
+            "us": {
+              "amount": 8.0,
+              "unitShort": "10-inch",
+              "unitLong": "10-inchs"
+            },
+            "metric": {
+              "amount": 8.0,
+              "unitShort": "10-inch",
+              "unitLong": "10-inchs"
+            }
+          }
+        },
+        {
+          "id": 31015,
+          "aisle": "Produce",
+          "image": "chili-peppers-green.jpg",
+          "consitency": "solid",
+          "name": "green chiles",
+          "original": "2 (4 ounce) cans diced green chiles",
+          "originalString": "2 (4 ounce) cans diced green chiles",
+          "originalName": null,
+          "amount": 8.0,
+          "unit": "ounce",
+          "meta": [
+            "diced",
+            "green",
+            "canned"
+          ],
+          "metaInformation": [
+            "diced",
+            "green",
+            "canned"
+          ],
+          "measures": {
+            "us": {
+              "amount": 8.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 226.796,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 1029195,
+          "aisle": "Canned and Jarred",
+          "image": "green-olives---sliced.jpg",
+          "consitency": "solid",
+          "name": "green olives",
+          "original": "5 pitted green olives",
+          "originalString": "5 pitted green olives",
+          "originalName": null,
+          "amount": 5.0,
+          "unit": "",
+          "meta": [
+            "green",
+            "pitted"
+          ],
+          "metaInformation": [
+            "green",
+            "pitted"
+          ],
+          "measures": {
+            "us": {
+              "amount": 5.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 5.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 11291,
+          "aisle": "Produce",
+          "image": "spring-onions.jpg",
+          "consitency": "solid",
+          "name": "green onion",
+          "original": "1 cup chopped green onion",
+          "originalString": "1 cup chopped green onion",
+          "originalName": null,
+          "amount": 1.0,
+          "unit": "cup",
+          "meta": [
+            "chopped"
+          ],
+          "metaInformation": [
+            "chopped"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 11979,
+          "aisle": "Canned and Jarred;Produce;Ethnic Foods",
+          "image": "jalapeno-pepper.png",
+          "consitency": "solid",
+          "name": "jalapeno pepper",
+          "original": "1 jalapeno pepper, seeded and chopped",
+          "originalString": "1 jalapeno pepper, seeded and chopped",
+          "originalName": null,
+          "amount": 1.0,
+          "unit": "",
+          "meta": [
+            "seeded",
+            "chopped"
+          ],
+          "metaInformation": [
+            "seeded",
+            "chopped"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 9160,
+          "aisle": "Produce",
+          "image": "lime-juice.png",
+          "consitency": "liquid",
+          "name": "lime juice",
+          "original": "2 tablespoons fresh lime juice",
+          "originalString": "2 tablespoons fresh lime juice",
+          "originalName": null,
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "meta": [
+            "fresh"
+          ],
+          "metaInformation": [
+            "fresh"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 1001025,
+          "aisle": "Cheese",
+          "image": "shredded-cheese-white.jpg",
+          "consitency": "solid",
+          "name": "monterey jack cheese",
+          "original": "1 (8 ounce) package shredded Monterey Jack cheese",
+          "originalString": "1 (8 ounce) package shredded Monterey Jack cheese",
+          "originalName": null,
+          "amount": 8.0,
+          "unit": "ounce",
+          "meta": [
+            "shredded"
+          ],
+          "metaInformation": [
+            "shredded"
+          ],
+          "measures": {
+            "us": {
+              "amount": 8.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 226.796,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 1031009,
+          "aisle": "Cheese",
+          "image": "cheddar-cheese.jpg",
+          "consitency": "solid",
+          "name": "sharp cheddar cheese",
+          "original": "1 (8 ounce) package shredded sharp Cheddar cheese",
+          "originalString": "1 (8 ounce) package shredded sharp Cheddar cheese",
+          "originalName": null,
+          "amount": 8.0,
+          "unit": "ounce",
+          "meta": [
+            "shredded"
+          ],
+          "metaInformation": [
+            "shredded"
+          ],
+          "measures": {
+            "us": {
+              "amount": 8.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 226.796,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 1056,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "sour-cream.jpg",
+          "consitency": "solid",
+          "name": "sour cream",
+          "original": "1 (8 ounce) container sour cream",
+          "originalString": "1 (8 ounce) container sour cream",
+          "originalName": null,
+          "amount": 8.0,
+          "unit": "ounce",
+          "meta": [
+            "sour"
+          ],
+          "metaInformation": [
+            "sour"
+          ],
+          "measures": {
+            "us": {
+              "amount": 8.0,
+              "unitShort": "oz",
+              "unitLong": "ounces"
+            },
+            "metric": {
+              "amount": 226.796,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2073,
+          "aisle": "Ethnic Foods;Spices and Seasonings",
+          "image": "chili-powder.jpg",
+          "consitency": "solid",
+          "name": "taco seasoning",
+          "original": "1/2 (1 ounce) package taco seasoning",
+          "originalString": "1/2 (1 ounce) package taco seasoning",
+          "originalName": null,
+          "amount": 1.0,
+          "unit": "ounce",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "oz",
+              "unitLong": "ounce"
+            },
+            "metric": {
+              "amount": 28.35,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 4513,
+          "aisle": "Oil, Vinegar, Salad Dressing",
+          "image": "vegetable-oil.jpg",
+          "consitency": "liquid",
+          "name": "vegetable oil",
+          "original": "1/2 cup vegetable oil",
+          "originalString": "1/2 cup vegetable oil",
+          "originalName": null,
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [],
+          "metaInformation": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 118.294,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        }
+      ],
+      "id": 464292,
+      "title": "Chicken Chimichangas with Green Sauce",
+      "readyInMinutes": 40,
+      "servings": 8,
+      "image": "https://spoonacular.com/recipeImages/464292-556x370.jpg",
+      "imageType": "jpg",
+      "cuisines": [
+        "mexican"
+      ],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [],
+      "occasions": [],
+      "winePairing": {
+        "pairedWines": [
+          "pinot noir",
+          "riesling",
+          "sparkling rose"
+        ],
+        "pairingText": "Pinot Noir, Riesling, and Sparkling rosé are my top picks for Chimichanga. Acidic white wines like riesling or low-tannin reds like pinot noir can work well with Mexican dishes. Sparkling rosé is a safe pairing too. The J Vineyards & Winery Pinot Noir with a 5 out of 5 star rating seems like a good match. It costs about 48 dollars per bottle.",
+        "productMatches": [
+          {
+            "id": 428384,
+            "title": "J Vineyards & Winery Pinot Noir",
+            "description": "At J, we are devoted to the concept of terroir in the Russian River Valley, and our 2013 J Vineyards Pinot Noir is a reflection of this vintage, the vineyards and our attention to detail in the winery. Delivering bright berry flavors-red cherry, raspberry and blackberry- this elegant Pinot is enhanced by notes of licorice and red tea, which linger on the finish. Aromas of wild strawberries and spices delight the nose.",
+            "price": "$47.99",
+            "imageUrl": "https://spoonacular.com/productImages/428384-312x231.jpg",
+            "averageRating": 1.0,
+            "ratingCount": 2.0,
+            "score": 0.8571428571428572,
+            "link": "https://www.amazon.com/Vineyards-Winery-Russian-River-Valley/dp/B01A6A3A1O?tag=spoonacular-20"
+          }
+        ]
+      },
+      "instructions": "Pour the cream of chicken soup into a blender along with the green chiles, olives, jalapeno, and lime juice.  Puree until smooth, then pour into a saucepan, and warm over medium-low heat while proceeding with the recipe.                            In a large bowl, stir together the cream cheese, Monterey Jack cheese, and taco seasoning until well blended.  Fold in the chicken.  Evenly divide mixture among the 8 tortillas.  Fold each tortilla into a rectangular packet around the filling.                            Heat the vegetable oil in a large skillet over medium-high heat.  Fry 4 chimichangas at a time until golden brown, then drain on a plate lined with paper towels.                            To serve, place a chimichanga on a plate, and ladle the warm sauce overtop.  Sprinkle with Cheddar cheese and green onions.  Finish with a dollop of sour cream.                                                Kitchen-Friendly View",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Pour the cream of chicken soup into a blender along with the green chiles, olives, jalapeno, and lime juice.  Puree until smooth, then pour into a saucepan, and warm over medium-low heat while proceeding with the recipe.",
+              "ingredients": [
+                {
+                  "id": 6016,
+                  "name": "cream of chicken soup",
+                  "image": "cream-of-chicken-soup.jpg"
+                },
+                {
+                  "id": 31015,
+                  "name": "green chili pepper",
+                  "image": "chili-peppers-green.jpg"
+                },
+                {
+                  "id": 9160,
+                  "name": "lime juice",
+                  "image": "lime-juice.png"
+                },
+                {
+                  "id": 11979,
+                  "name": "jalapeno pepper",
+                  "image": "jalapeno-pepper.png"
+                },
+                {
+                  "id": 9195,
+                  "name": "olives",
+                  "image": "olives-mixed.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                },
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "image": "blender.png"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "In a large bowl, stir together the cream cheese, Monterey Jack cheese, and taco seasoning until well blended.  Fold in the chicken.  Evenly divide mixture among the 8 tortillas.  Fold each tortilla into a rectangular packet around the filling.",
+              "ingredients": [
+                {
+                  "id": 1001025,
+                  "name": "monterey jack cheese",
+                  "image": "shredded-cheese-white.jpg"
+                },
+                {
+                  "id": 2073,
+                  "name": "taco seasoning mix",
+                  "image": "chili-powder.jpg"
+                },
+                {
+                  "id": 1017,
+                  "name": "cream cheese",
+                  "image": "cream-cheese.jpg"
+                },
+                {
+                  "id": 18364,
+                  "name": "tortilla",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Heat the vegetable oil in a large skillet over medium-high heat.  Fry 4 chimichangas at a time until golden brown, then drain on a plate lined with paper towels.",
+              "ingredients": [
+                {
+                  "id": 4513,
+                  "name": "vegetable oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405895,
+                  "name": "paper towels",
+                  "image": "paper-towels.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "To serve, place a chimichanga on a plate, and ladle the warm sauce overtop.  Sprinkle with Cheddar cheese and green onions.  Finish with a dollop of sour cream.",
+              "ingredients": [
+                {
+                  "id": 1009,
+                  "name": "cheddar cheese",
+                  "image": "cheddar-cheese.jpg"
+                },
+                {
+                  "id": 11291,
+                  "name": "green onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 1056,
+                  "name": "sour cream",
+                  "image": "sour-cream.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404630,
+                  "name": "ladle",
+                  "image": "ladle.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "creditsText": "Allrecipes"
+    }
+  ]
+}
